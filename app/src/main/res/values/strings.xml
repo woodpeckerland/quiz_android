@@ -14,6 +14,7 @@
     <string name="txt_username">Spielername</string>
     <string name="txt_btn_color">Buttonfarbe</string>
     <string name="txt_sound">Sound (Aus/An)</string>
+    <string name="txt_enter_name">Name eingeben</string>
     <string name="btn_quit">Abbrechen</string>
     <string name="btn_save">Speichern</string>
 

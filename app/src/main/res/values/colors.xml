@@ -3,8 +3,12 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="eggshell">#FFF1DE</color>
+    <color name="bright_green">#B1E73B</color>
+    <color name="bright_blue">#48EBFF</color>
+    <color name="bright_violet">#D74CFB</color>
     <color name="bright_orange">#FFCF5E</color>
     <color name="bright_pink">#FF8EE1</color>
     <color name="orange">#FD8042</color>
     <color name="dark_orange">#FD6E25</color>
+    <color name="grey">#5F5F5F</color>
 </resources>
