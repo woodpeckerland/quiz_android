@@ -25,4 +25,23 @@
     <string name="txt_placement">Platz</string>
     <string name="txt_score">Punkte</string>
 
+    // GameActivity
+    <string name="txt_game_category">Kategorie: Computer</string>
+    <string name="txt_game_score">Punkte: 0</string>
+    <string name="txt_game_question">Frage: 1 von 5</string>
+
+    // Questions and Answers
+
+    // Buttons
+    <string name="btn_A">A</string>
+    <string name="btn_B">B</string>
+    <string name="btn_C">C</string>
+
+    // 001
+    <string name="txt_question_001">Was ist Java noch?</string>
+    <string name="txt_A_001">A) eine Insel</string>
+    <string name="txt_B_001">B) ein Tier</string>
+    <string name="txt_C_001">C) ein Gericht</string>
+    <string name="txt_D_001">D) eine Pflanze</string>
+
 </resources>

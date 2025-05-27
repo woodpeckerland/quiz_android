@@ -74,7 +74,7 @@
         android:layout_height="0dp"
         android:background="@drawable/round_corners_bg"
         app:layout_constraintBottom_toTopOf="@+id/guideline"
-        android:alpha="0.6"
+        android:alpha="0.8"
         android:layout_margin="20dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
