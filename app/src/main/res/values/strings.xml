@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+
+    // MainActivity
+    <string name="txt_menu">Hauptmenü</string>
+    <string name="btn_start">Start Quiz</string>
+    <string name="btn_highscores">Highscores</string>
+    <string name="btn_settings">Einstellungen</string>
+    <string name="txt_company">Woodpecker Games 1.0</string>
+
+    // SettingsActivity
+    <string name="txt_settings">Einstellungen</string>
+    <string name="txt_avatar">Avatar</string>
+    <string name="txt_username">Spielername</string>
+    <string name="txt_btn_color">Buttonfarbe</string>
+    <string name="txt_sound">Sound (Aus/An)</string>
+    <string name="btn_quit">Abbrechen</string>
+    <string name="btn_save">Speichern</string>
+
+    // CategoryActivity
+    <string name="txt_category">Kategorie</string>
+
+    // HighscoresActivity
+    <string name="txt_highscores">Highscores</string>
+    <string name="txt_placement">Platz</string>
+    <string name="txt_score">Punkte</string>
+
+</resources>
