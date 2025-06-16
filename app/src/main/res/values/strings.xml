@@ -20,6 +20,13 @@
 
     // CategoryActivity
     <string name="txt_category">Kategorie</string>
+    <string name="btn_random">Zufall</string>
+    <string name="btn_computer">Computer</string>
+    <string name="btn_geography">Geografie</string>
+    <string name="btn_history">Geschichte</string>
+    <string name="btn_fauna">Flora und Fauna</string>
+    <string name="btn_sports">Sport</string>
+    <string name="btn_science">Naturwissenschaften</string>
 
     // HighscoresActivity
     <string name="txt_highscores">Highscores</string>
